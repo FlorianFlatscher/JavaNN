@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DeepLearning:jar">
+    <output-path>$PROJECT_DIR$/../../JavaLibraries</output-path>
+    <root id="archive" name="DeepLearning.jar">
+      <element id="module-output" name="DeepLearning" />
+    </root>
+  </artifact>
+</component>
