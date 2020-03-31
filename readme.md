@@ -1,0 +1,2 @@
+This is a deep learning libary written in java.
+It is capable of creating simple but flexible neural networks and train them with gradient descent. I have included a few activation functions and a data set functionality for training with batches. The project package contains a runable jar "DeepLearning.jar" (Compiled by Java 1.8), which shows the training process with a Xor-example. The Gui uses a liabrary called Processing 3.
